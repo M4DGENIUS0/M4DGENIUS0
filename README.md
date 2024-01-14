@@ -12,7 +12,6 @@
 - 🧞 I'm a Computer Science peep.
 - 🔭 I’m currently working on Flutter Development.
 - 💡 I’m looking to collaborate with Mobile Developement projects.
-- ⚡ Fun fact: I love Sports, especially Cricket.
 - 👯 I’m looking for oppertunity
 - 💬 Ask me about Flutter, Dart, FireBase
 - 📫 How to reach me: an7539661@gmail.com
