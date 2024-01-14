@@ -12,10 +12,10 @@
 - 🧞 I'm a Computer Science peep.
 - 🔭 I’m currently working on Flutter Development.
 - 💡 I’m looking to collaborate with Mobile Developement projects.
-- 👯 I’m looking for oppertunity
-- 💬 Ask me about Flutter, Dart, FireBase
+- 👯 I’m looking for oppertunity.
+- 💬 Ask me about Flutter, Dart, FireBase.
 - 📫 How to reach me: an7539661@gmail.com
-- ⚡ Fun fact: Sar Nechy, Kaam upper ☝🏻
+- ⚡ Fun fact: Sar Nechy, Kaam upper ☝🏻.
 <br>
 
 ---
