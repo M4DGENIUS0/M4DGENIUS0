@@ -22,7 +22,7 @@
 
 <details>
 <summary>
-  ✨ Tech stack currently using:
+  ✨ Technology currently using:
 </summary>
    <br>
 <code><a href="https://flutter.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></a></code>
