@@ -19,7 +19,7 @@
 <br>
 
 ---
-
+<h3> 🛠 &nbsp;Tech Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h3>
 <details>
 <summary>
   ✨ Technology currently using:
