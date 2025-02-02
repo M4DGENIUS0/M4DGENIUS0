@@ -7,12 +7,12 @@
   <a href="https://github.com/M4DGENIUS0/"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Flutter+Development+Software+Engineer;Sar+Nechy+Kaam+Upper&center=true&width=500&height=50"></a>
 </p>
 
-<h3>Little facts about me 🧑</h3>
+<h3> 👨🏻‍💻 &nbsp;Little about Me <img src="https://media.giphy.com/media/2rAF2FUn94dIlljSms/giphy.gif" width="40"></h3>
 
 - 🧞 I'm a Computer Science peep.
 - 🔭 I’m currently working on Flutter Development.
 - 💡 I’m looking to collaborate with Mobile Developement projects.
-- 👯 I’m looking for oppertunity.
+- 💼 I’m looking for oppertunity.
 - 💬 Ask me about Flutter, Dart, FireBase.
 - 📫 How to reach me: im.ahmad.nasir01@gmail.com
 - ⚡ Fun fact: Sar Nechy, Kaam upper ☝🏻.
