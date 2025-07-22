@@ -76,7 +76,7 @@
   <a href="mailto:an7539661@gmail.com">
     <img align="left" alt="Ahmad" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
-  <a href="https://www.instagram.com/0_0___ahmad))">
+  <a href="https://www.instagram.com/0_0___ahmad">
     <img align="left" alt="Ahmad" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
    <a href="https://www.facebook.com/">
