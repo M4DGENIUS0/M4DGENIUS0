@@ -1,5 +1,10 @@
 ### 
 
+<p align="center">
+  <a href="https://disoccupied.com/">
+    <img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg" />
+  </a>
+</p>
 
 
 <h1 align="center">Salam there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ahmad Nasir</h1>
@@ -27,6 +32,7 @@
    <br>
 <code><a href="https://flutter.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></a></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
+<code><a href="https://www.w3schools.com/bash/bash_script.php" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"></a></code>
 <code><a href="https://www.w3schools.com/html/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
 <code><a href="https://www.w3schools.com/css/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a></code>
 <code><a href="https://firebase.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></a></code>
