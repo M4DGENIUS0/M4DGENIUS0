@@ -16,6 +16,7 @@
 
 - 🧞 I'm a Computer Science peep.
 - 🔭 I’m currently working on Flutter Development.
+- 🎓 Learning new things in Ai, Automation, Networking etc
 - 💡 I’m looking to collaborate with Mobile Developement projects.
 - 💼 I’m looking for oppertunity.
 - 💬 Ask me about Flutter, Dart, FireBase.
@@ -70,6 +71,10 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M4DGENIUS0&theme=buefy&show_icons=true" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4DGENIUS0&layout=compact&theme=buefy" />
+
+<!-- <p align="center"> -->
+ <!-- <img src="https://raw.githubusercontent.com/M4DGENIUS0/M4DGENIUS0/output/github-contribution-grid-snake-dark.svg" alt="Animation"/> -->
+<!-- </p> -->
 
 ---
 
