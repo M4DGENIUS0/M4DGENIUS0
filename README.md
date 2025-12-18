@@ -72,10 +72,9 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4DGENIUS0&layout=compact&theme=buefy" />
 
-<!-- <p align="center"> -->
- <!-- <img src="https://raw.githubusercontent.com/M4DGENIUS0/M4DGENIUS0/output/github-contribution-grid-snake-dark.svg" alt="Animation"/> -->
-<!-- </p> -->
-
+<!-- <p align="center">  -->
+ <img src="https://raw.githubusercontent.com/M4DGENIUS0/M4DGENIUS0/output/github-contribution-grid-snake-dark.svg" alt="Animation"/> 
+<!-- </p>  -->
 ---
 
 
