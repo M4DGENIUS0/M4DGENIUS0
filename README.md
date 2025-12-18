@@ -96,6 +96,16 @@
     <img align="left" alt="Ahmad" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
   <br>
+
+<h4>Support My Work ☕ <h4> 
+If you like my projects or bots, consider supporting me:
+<br>  
+
+<!-- <p align="center"> -->
+  <!-- <a href="https://buymeacoffee.com/ahmmikun"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a> -->
+<a href="https://patreon.com/madgenius"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"></a>
+<!-- </p>   -->
+  
   
 
 
